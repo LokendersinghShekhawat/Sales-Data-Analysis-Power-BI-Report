@@ -36,3 +36,14 @@ This are the Business requirements
 7) Show Sales/Profit/Discount/Net Sales/All remaining fields for each order that could be filtered using visual filters. (Product/Date/Customer ID/Promotion Categories)
 
 8) Show sales by different cities.
+
+
+![Image](https://github.com/user-attachments/assets/3edd8288-43b5-4be1-b929-730ad866cfc3)
+
+![Image](https://github.com/user-attachments/assets/0836231a-efe8-428c-9615-d1197d35e6e9)
+
+![Image](https://github.com/user-attachments/assets/3ca7a805-ed9b-4b15-ae6b-c61874448a23)
+
+![Image](https://github.com/user-attachments/assets/585681fe-cb88-4d8b-bb79-9a5fb315659d)
+
+![Image](https://github.com/user-attachments/assets/2267b70e-166e-4743-ab57-b55cf8b8b491)
